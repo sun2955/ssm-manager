@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/sun/controller/HelloworldController.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/configs/sqlServer.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/aside.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/common.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/footer.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/header.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/main.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/login.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/system/user/user.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/system/user/userAdd.html=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/thymeleaftest.html=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8

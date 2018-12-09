@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+	<ver0.6>
+		<file>spring-mvc-servlet.xml</file>
+		<file>SecurityInterceptor.java</file>
+		<content>更加登录拦截器，**.do 的文件被拦截 。拦截未登录的用户，跳转到指定的 登录页面去登录</content>
+	</ver0.6>
+	<ver0.7>
+		<file>/app/user.jsp</file>
+		<content>用户管理页面完成</content>
+	</ver0.7>
+</context>

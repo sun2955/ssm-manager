@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+	<ver value="0.6">
+		<controller>
+			<name id = "*.do">URL 为 *.do 的 会被拦截器拦截，验证是否登录</name>
+			<name id = "*.html">URL 为*.html为静态页面，不需要去拦截器验证登录就能显示的页面 </name>
+			<path src = "spring-mvc-servlet.xml" item="mvc:interceptors"> 配置位置及标签</path>
+		</controller>
+	</ver>
+	<ver value="0.7">
+	<controller>
+		<name id = "*.do">登录验证OK</name>
+	</controller>
+	</ver>
+</context>
